@@ -1,8 +1,8 @@
 # factshift
 
-## [noun]
+## [ noun ]
 
-### {a motion of ideas}
+### { a motion of ideas }
 
 <!--
 
